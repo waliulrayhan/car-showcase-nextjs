@@ -1,9 +1,9 @@
-import NavBar from "@/components/NavBar";
 import "./globals.css";
+import NavBar from "@/components/NavBar";
 import Footer from "@/components/Footer";
 
 export const metadata = {
-  title: "Car Hub",
+  title: "Car Craze",
   description: "Discover world's best car showcase application",
 };
 
